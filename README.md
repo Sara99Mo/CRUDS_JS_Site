@@ -20,10 +20,4 @@ The site is used to create a product, show it, update it and delete it from loca
     - Clear All => remove all products from local storage.
 
 ## Project Interface
-<<<<<<< HEAD
 ![Demo] (https://sara99mo.github.io/CRUDS_JS_Site/)
-||||||| 98d8b8a
-![Demo] ()
-=======
-![Demo] (https://sara99mo.github.io/CRUDS_JS_Site/)
->>>>>>> 3da9f7579d55495fd6dfceb33822a4fc5cf00b85
